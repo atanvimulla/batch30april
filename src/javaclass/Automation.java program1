@@ -1,0 +1,34 @@
+package javaclass;
+
+public class Automation { 
+	 
+	public static void main (String[] args) {
+		
+	//program :- to print batch name.
+		System.out.println("Welcome");
+		//program:-to print batch timing.
+		System.out.println("World of teting");
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+}// main method body
+	
